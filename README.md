@@ -14,7 +14,7 @@ PCx86 Mathines
 --------------
 
 + Check out the machines:
-	- [IBM-PC 5510 ROM BASIC](machines/pcx86/ibm-pc-basic.html) and [ibm-pc-basic.xml](machines/pcx86/ibm-pc-basic..xml)
+	- [IBM-PC 5510 ROM BASIC](machines/pcx86/ibm-pc-basic.html) and [ibm-pc-basic.xml](machines/pcx86/ibm-pc-basic.xml)
 	- [example2.html](example2.html) and [example2.xml](example2.xml)
 	- [example3a.html](example3a.html) and [example3a.xml](example3a.xml)
 	- [example3b.html](example3b.html) and [example3b.xml](example3b.xml)

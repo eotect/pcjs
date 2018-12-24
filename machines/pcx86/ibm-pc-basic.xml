@@ -6,7 +6,7 @@
 	<rom id="romBASIC" addr="0xf6000" size="0x8000" file="rom/5150/basic/BASIC100.json"/>
 	<rom id="romBIOS" addr="0xfe000" size="0x2000" file="rom/5150/1981-04-24/PCBIOS-REV1.json"/>
 	<keyboard id="keyboard"/>
-	<video id="videoMDA" screenWidth="720" screenHeight="350" smoothing="false" fontROM="video/ibm/mda/ibm-mda.json">
+	<video id="videoMDA" screenWidth="720" screenHeight="400" smoothing="false" fontROM="video/ibm/mda/ibm-mda.json">
 		<menu>
 			<title>Monochrome Display</title>
 		</menu>

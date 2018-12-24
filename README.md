@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MyPlace PCx86 Mathines
+title: MyPlace PCx86 Machines
 permalink: machines/pcx86/
 redirect_from:
   - docs/pcx86/

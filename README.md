@@ -33,6 +33,4 @@ up-to-date.
 
 Have fun!
 
-{% include machine.html id="example3" %}
-
 [Return to [PCx86 Documentation](/docs/pcx86/)]
